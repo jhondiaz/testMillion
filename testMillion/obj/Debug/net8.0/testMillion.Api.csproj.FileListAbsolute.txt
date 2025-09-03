@@ -115,3 +115,4 @@ G:\test\testMillion\testMillion\obj\Debug\net8.0\refint\testMillion.Api.dll
 G:\test\testMillion\testMillion\obj\Debug\net8.0\testMillion.Api.pdb
 G:\test\testMillion\testMillion\obj\Debug\net8.0\testMillion.Api.genruntimeconfig.cache
 G:\test\testMillion\testMillion\obj\Debug\net8.0\ref\testMillion.Api.dll
+G:\test\testMillion\testMillion\obj\Debug\net8.0\testMillion.Api.sourcelink.json

@@ -15,3 +15,4 @@ G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Reposito
 G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\refint\TestMillion.Repository.dll
 G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.pdb
 G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\ref\TestMillion.Repository.dll
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.sourcelink.json

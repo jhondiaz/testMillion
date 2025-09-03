@@ -13,3 +13,4 @@ G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataCo
 G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\refint\TestMillion.DataContexts.dll
 G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.pdb
 G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\ref\TestMillion.DataContexts.dll
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.sourcelink.json

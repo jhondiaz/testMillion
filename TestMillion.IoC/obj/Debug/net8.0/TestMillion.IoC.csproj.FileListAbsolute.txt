@@ -25,3 +25,4 @@ G:\test\testMillion\TestMillion.IoC\obj\Debug\net8.0\TestMillion.IoC.dll
 G:\test\testMillion\TestMillion.IoC\obj\Debug\net8.0\refint\TestMillion.IoC.dll
 G:\test\testMillion\TestMillion.IoC\obj\Debug\net8.0\TestMillion.IoC.pdb
 G:\test\testMillion\TestMillion.IoC\obj\Debug\net8.0\ref\TestMillion.IoC.dll
+G:\test\testMillion\TestMillion.IoC\obj\Debug\net8.0\TestMillion.IoC.sourcelink.json

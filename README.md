@@ -169,3 +169,30 @@ TestMillion/
 - `POST /api/Authentication` - Autenticación
 
 Esta arquitectura garantiza un código limpio, mantenible y escalable siguiendo las mejores prácticas de desarrollo de software.
+
+
+## Tecnologías
+
+ASP.NET Core, Entity Framework Core, FluentValidation, AutoMapper, JWT Bearer, Swagger/OpenAPI.
+El proyecto está muy bien estructurado siguiendo las mejores prácticas de Clean Architecture, con una clara separación de responsabilidades y patrones de diseño que facilitan la mantenibilidad, testabilidad y escalabilidad del código.
+
+
+##  Base de Datos TestMillionDB
+
+- La base de datos esta en una carpeta **/BaseDatosScript**,  dentro esta  el script SQL.  
+
+## ConnectionStrings 
+
+- En el archivo  **appsettings.json**  en la vale **ConnectionStrings/TMConnection** 
+  Data Source=*;Initial Catalog=TestMillionDB;User=*;password=*;Connection Timeout=200; pooling=true;MultipleActiveResultSets=True;TrustServerCertificate=True
+  - Data Source=*
+  - User=* 
+  - password=* 
+
+
+## El servicio esta  deployado en la siguiente  url  para  su prueba
+
+https://testmillionapi-gje7dnbqfwdcdtga.canadacentral-01.azurewebsites.net/swagger/index.html
+
+
+- `/api/Authentication` : Esta el metodo de autencicacion  que genera el token JWT , que permite la ejecucion de los  demas Endpoint
