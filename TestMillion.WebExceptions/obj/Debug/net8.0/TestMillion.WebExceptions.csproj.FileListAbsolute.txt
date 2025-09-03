@@ -1,0 +1,15 @@
+G:\test\testMillion\TestMillion.WebExceptions\bin\Debug\net8.0\TestMillion.WebExceptions.deps.json
+G:\test\testMillion\TestMillion.WebExceptions\bin\Debug\net8.0\TestMillion.WebExceptions.dll
+G:\test\testMillion\TestMillion.WebExceptions\bin\Debug\net8.0\TestMillion.WebExceptions.pdb
+G:\test\testMillion\TestMillion.WebExceptions\bin\Debug\net8.0\TestMillion.Entities.dll
+G:\test\testMillion\TestMillion.WebExceptions\bin\Debug\net8.0\TestMillion.Entities.pdb
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.csproj.AssemblyReference.cache
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMill.F2BE8C38.Up2Date
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.dll
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\refint\TestMillion.WebExceptions.dll
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\TestMillion.WebExceptions.pdb
+G:\test\testMillion\TestMillion.WebExceptions\obj\Debug\net8.0\ref\TestMillion.WebExceptions.dll

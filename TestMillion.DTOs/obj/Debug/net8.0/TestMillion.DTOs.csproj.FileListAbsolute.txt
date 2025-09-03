@@ -1,0 +1,11 @@
+G:\test\testMillion\TestMillion.DTOs\bin\Debug\net8.0\TestMillion.DTOs.deps.json
+G:\test\testMillion\TestMillion.DTOs\bin\Debug\net8.0\TestMillion.DTOs.dll
+G:\test\testMillion\TestMillion.DTOs\bin\Debug\net8.0\TestMillion.DTOs.pdb
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.dll
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\refint\TestMillion.DTOs.dll
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\TestMillion.DTOs.pdb
+G:\test\testMillion\TestMillion.DTOs\obj\Debug\net8.0\ref\TestMillion.DTOs.dll

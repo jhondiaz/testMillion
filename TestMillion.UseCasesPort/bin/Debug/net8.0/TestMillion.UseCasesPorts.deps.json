@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestMillion.UseCasesPorts/1.0.0": {
+        "dependencies": {
+          "TestMillion.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "TestMillion.UseCasesPorts.dll": {}
+        }
+      },
+      "TestMillion.DTOs/1.0.0": {
+        "runtime": {
+          "TestMillion.DTOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestMillion.UseCasesPorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestMillion.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

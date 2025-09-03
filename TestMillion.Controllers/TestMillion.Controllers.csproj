@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestMillion.DTOs\TestMillion.DTOs.csproj" />
+    <ProjectReference Include="..\TestMillion.Presenters\TestMillion.Presenters.csproj" />
+    <ProjectReference Include="..\TestMillion.UseCasesPort\TestMillion.UseCasesPorts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+G:\test\testMillion\TestMillion.UseCase\obj\Debug\net8.0\TestMillion.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.UseCase\obj\Debug\net8.0\TestMillion.UseCase.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.UseCase\obj\Debug\net8.0\TestMillion.UseCase.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.UseCase\obj\Debug\net8.0\TestMillion.UseCase.csproj.CoreCompileInputs.cache

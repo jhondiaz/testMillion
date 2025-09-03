@@ -1,0 +1,15 @@
+G:\test\testMillion\TestMillion.DataContexts\bin\Debug\net8.0\TestMillion.DataContexts.deps.json
+G:\test\testMillion\TestMillion.DataContexts\bin\Debug\net8.0\TestMillion.DataContexts.dll
+G:\test\testMillion\TestMillion.DataContexts\bin\Debug\net8.0\TestMillion.DataContexts.pdb
+G:\test\testMillion\TestMillion.DataContexts\bin\Debug\net8.0\TestMillion.Entities.dll
+G:\test\testMillion\TestMillion.DataContexts\bin\Debug\net8.0\TestMillion.Entities.pdb
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.csproj.AssemblyReference.cache
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMill.4931BDA8.Up2Date
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.dll
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\refint\TestMillion.DataContexts.dll
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\TestMillion.DataContexts.pdb
+G:\test\testMillion\TestMillion.DataContexts\obj\Debug\net8.0\ref\TestMillion.DataContexts.dll

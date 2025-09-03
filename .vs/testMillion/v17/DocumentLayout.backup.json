@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\test\\testMillion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54514ADE-9876-401E-81F9-3A0A148F7E92}|TestMillion.Controllers\\TestMillion.Controllers.csproj|g:\\test\\testmillion\\testmillion.controllers\\createpropertyimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54514ADE-9876-401E-81F9-3A0A148F7E92}|TestMillion.Controllers\\TestMillion.Controllers.csproj|solutionrelative:testmillion.controllers\\createpropertyimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F57FB1-6A6F-4C80-9CB1-13B1C58F6011}|testMillion\\testMillion.Api.csproj|g:\\test\\testmillion\\testmillion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F57FB1-6A6F-4C80-9CB1-13B1C58F6011}|testMillion\\testMillion.Api.csproj|solutionrelative:testmillion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848B5915-0D4D-4459-A918-9CB153BBD2B3}|TestMillion.DTOs\\TestMillion.DTOs.csproj|g:\\test\\testmillion\\testmillion.dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848B5915-0D4D-4459-A918-9CB153BBD2B3}|TestMillion.DTOs\\TestMillion.DTOs.csproj|solutionrelative:testmillion.dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\test\\testMillion\\testMillion\\Program.cs",
+              "RelativeDocumentMoniker": "testMillion\\Program.cs",
+              "ToolTip": "G:\\test\\testMillion\\testMillion\\Program.cs",
+              "RelativeToolTip": "testMillion\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:39:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePropertyImagesController.cs",
+              "DocumentMoniker": "G:\\test\\testMillion\\TestMillion.Controllers\\CreatePropertyImagesController.cs",
+              "RelativeDocumentMoniker": "TestMillion.Controllers\\CreatePropertyImagesController.cs",
+              "ToolTip": "G:\\test\\testMillion\\TestMillion.Controllers\\CreatePropertyImagesController.cs",
+              "RelativeToolTip": "TestMillion.Controllers\\CreatePropertyImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:31:06.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "G:\\test\\testMillion\\TestMillion.DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TestMillion.DTOs\\UserDTO.cs",
+              "ToolTip": "G:\\test\\testMillion\\TestMillion.DTOs\\UserDTO.cs",
+              "RelativeToolTip": "TestMillion.DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:22:26.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 3061,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

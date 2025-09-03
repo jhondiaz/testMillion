@@ -1,0 +1,17 @@
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.Repository.deps.json
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.Repository.dll
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.Repository.pdb
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.DataContexts.dll
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.Entities.dll
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.DataContexts.pdb
+G:\test\testMillion\TestMillion.Repository\bin\Debug\net8.0\TestMillion.Entities.pdb
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.csproj.AssemblyReference.cache
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMill.75072F59.Up2Date
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.dll
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\refint\TestMillion.Repository.dll
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\TestMillion.Repository.pdb
+G:\test\testMillion\TestMillion.Repository\obj\Debug\net8.0\ref\TestMillion.Repository.dll

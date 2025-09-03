@@ -1,0 +1,15 @@
+G:\test\testMillion\TestMillion.UseCasesPort\bin\Debug\net8.0\TestMillion.UseCasesPorts.deps.json
+G:\test\testMillion\TestMillion.UseCasesPort\bin\Debug\net8.0\TestMillion.UseCasesPorts.dll
+G:\test\testMillion\TestMillion.UseCasesPort\bin\Debug\net8.0\TestMillion.UseCasesPorts.pdb
+G:\test\testMillion\TestMillion.UseCasesPort\bin\Debug\net8.0\TestMillion.DTOs.dll
+G:\test\testMillion\TestMillion.UseCasesPort\bin\Debug\net8.0\TestMillion.DTOs.pdb
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.csproj.AssemblyReference.cache
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMill.686B5FE1.Up2Date
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.dll
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\refint\TestMillion.UseCasesPorts.dll
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\TestMillion.UseCasesPorts.pdb
+G:\test\testMillion\TestMillion.UseCasesPort\obj\Debug\net8.0\ref\TestMillion.UseCasesPorts.dll

@@ -1,0 +1,17 @@
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.Presenters.deps.json
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.Presenters.dll
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.Presenters.pdb
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.DTOs.dll
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.UseCasesPorts.dll
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.UseCasesPorts.pdb
+G:\test\testMillion\TestMillion.Presenters\bin\Debug\net8.0\TestMillion.DTOs.pdb
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.csproj.AssemblyReference.cache
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.AssemblyInfoInputs.cache
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.AssemblyInfo.cs
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.csproj.CoreCompileInputs.cache
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMill.FA29DB31.Up2Date
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.dll
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\refint\TestMillion.Presenters.dll
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\TestMillion.Presenters.pdb
+G:\test\testMillion\TestMillion.Presenters\obj\Debug\net8.0\ref\TestMillion.Presenters.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ti+t0ORsvR4=",
+  "success": true,
+  "projectFilePath": "G:\\test\\testMillion\\TestMillion.Presenters\\TestMillion.Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCDEVELOPER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
