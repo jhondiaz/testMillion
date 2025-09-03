@@ -1,4 +1,4 @@
-# TestMillion - Análisis de Arquitectura
+# TestMillion - Arquitectura
 
 ## Descripción General
 
