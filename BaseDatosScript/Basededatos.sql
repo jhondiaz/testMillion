@@ -18,23 +18,23 @@ ALTER TABLE [dbo].[Property] DROP CONSTRAINT [DF_Property_DataCreate]
 GO
 ALTER TABLE [dbo].[Owner] DROP CONSTRAINT [DF_Owner_DataCreate]
 GO
-/****** Object:  Table [dbo].[PropertyTrace]    Script Date: 1/5/2022 17:27:28 ******/
+
 IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[PropertyTrace]') AND type in (N'U'))
 DROP TABLE [dbo].[PropertyTrace]
 GO
-/****** Object:  Table [dbo].[PropertyImage]    Script Date: 1/5/2022 17:27:28 ******/
+
 IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[PropertyImage]') AND type in (N'U'))
 DROP TABLE [dbo].[PropertyImage]
 GO
-/****** Object:  Table [dbo].[Property]    Script Date: 1/5/2022 17:27:28 ******/
+
 IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Property]') AND type in (N'U'))
 DROP TABLE [dbo].[Property]
 GO
-/****** Object:  Table [dbo].[Owner]    Script Date: 1/5/2022 17:27:28 ******/
+
 IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Owner]') AND type in (N'U'))
 DROP TABLE [dbo].[Owner]
 GO
-/****** Object:  Table [dbo].[Owner]    Script Date: 1/5/2022 17:27:28 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -52,7 +52,7 @@ CREATE TABLE [dbo].[Owner](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Property]    Script Date: 1/5/2022 17:27:29 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -72,7 +72,7 @@ CREATE TABLE [dbo].[Property](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[PropertyImage]    Script Date: 1/5/2022 17:27:29 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -89,7 +89,7 @@ CREATE TABLE [dbo].[PropertyImage](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[PropertyTrace]    Script Date: 1/5/2022 17:27:29 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -114,4 +114,5 @@ ALTER TABLE [dbo].[Property] ADD  CONSTRAINT [DF_Property_DataCreate]  DEFAULT (
 GO
 ALTER TABLE [dbo].[PropertyImage] ADD  CONSTRAINT [DF_PropertyImage_DataCreate]  DEFAULT (getdate()) FOR [DataCreate]
 GO
+
 
